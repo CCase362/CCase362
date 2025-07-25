@@ -95,7 +95,7 @@
 
   <h3 align = "center"><strong>📧 Need to Contact Me?:</strong></h3>
   <p align = "center">
-    <a href = "[https://www.linkedin.com/in/ckusf04/](https://www.linkedin.com/in/ccusf/)" target = "_blank" rel = "noreferrer"> 
+    <a href = "(https://www.linkedin.com/in/ccusf/)" target = "_blank" rel = "noreferrer"> 
       <img src = "https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-64.png" 
         alt = "LinkedIn" width = "50" height = "50"/> </a>
     <a href = "mailto:carterleecase@gmail.com" target = "_blank" rel = "noreferrer"> 
