@@ -1,4 +1,4 @@
-<!-- Welcome to the C-Kuzy/README.md file! Feel free to use any of the code I have below!-->
+
 
 <!DOCTYPE <html>
 <html lang = "en" data-darkreader-mode = "dynamic" data-darkreader="dark" injected = "true">
@@ -13,7 +13,7 @@
       <a> 
         <strong>📡: Tampa, FL</strong>
          &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-        <img src="https://komarev.com/ghpvc/?username=ccase362&label=Profile%20views&color=0e75b6&style=flat" alt = "C-Kuzy" /> <!-- DONT FORGET TO ADD "C-Kuzy" to the 'username'-->
+        <img src="https://komarev.com/ghpvc/?username=ccase362&label=Profile%20views&color=0e75b6&style=flat" alt = "CCase362" /> 
          &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
         <strong> EST 2024 </strong>
       </a>
@@ -107,7 +107,7 @@
   </p>
 
   <p align = "center">
-    <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=C-Kuzy&show_icons=true&locale=en&layout=donut&theme=transparent&title_color=ff0000&text_color=ffffff&border_color=ff0000&cache_seconds=1800" 
+    <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=CCase362&show_icons=true&locale=en&layout=donut&theme=transparent&title_color=ff0000&text_color=ffffff&border_color=ff0000&cache_seconds=1800" 
       alt = "C-Kuzy" />
   </p>
 
@@ -124,6 +124,5 @@
   </footer>
 </html>
 
-<!--- C-Kuzy/C-Kuzy is my ✨ special ✨ repository with a `README.md` file which on my GitHub profile. You can click the Preview link to view any changes. --->
 message.txt
 9 KB
