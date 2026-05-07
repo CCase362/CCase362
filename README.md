@@ -17,8 +17,8 @@ Software Development • Systems Programming • Databases • UI/UX
 ## 🚀 About Me
 
 - 🎓 Computer Science student at USF
-- 💻 Interested in software engineering, systems programming, and UI/UX
-- 🔧 Building projects with C, Python, JavaScript, SQL, and Linux
+- 💻 Interested in software engineering, systems programming, and database development
+- 🔧 Building projects with C, Python, Java, SQL, JavaScript, and Linux
 - 🌱 Currently improving my full-stack and low-level programming skills
 - 📍 Based in the Tampa Bay area
 
@@ -46,34 +46,23 @@ Software Development • Systems Programming • Databases • UI/UX
 - Improved processing performance using batching and workload balancing
 - Benchmarked performance across multiple thread configurations
 
-### 🔹 Sunny Day Apiary Management System
-**HTML, CSS, JavaScript, SQL**
-- Developed a full-stack apiary management website
-- Implemented hive tracking, inspections, and inventory features
-- Designed responsive front-end interfaces with database integration
+### 🔹 OS Scheduler Simulation
+**C, Linux**
+- Simulates operating system CPU scheduling behavior
+- Demonstrates process scheduling and CPU management concepts
+- Uses structured low-level C programming techniques
 
-### 🔹 Portfolio Website
-**HTML, CSS, JavaScript**
-- Built a responsive portfolio website to showcase technical projects
-- Implemented a JSON-driven project gallery system
-- Focused on mobile-first UI/UX design principles
+### 🔹 Sunny Day Apiary Management System
+**Java, JSP, CSS, SQL**
+- Developed a full-stack apiary management web application
+- Implemented hive tracking, inspections, and inventory features
+- Designed responsive interfaces with database integration
 
 ### 🔹 Inventory Tracker Console App
 **Python, SQLite**
 - Created a command-line inventory tracker with CSV and SQLite support
 - Added filtering, validation, and modular application structure
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=CCase362&show_icons=true&theme=github_dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CCase362&layout=compact&theme=github_dark&hide_border=true" />
-</p>
 ---
 
 ## 📫 Contact
