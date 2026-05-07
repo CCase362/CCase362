@@ -1,128 +1,65 @@
+<h1 align="center">Hi, I'm Carter Case</h1>
 
+<h3 align="center">Computer Science Student at the University of South Florida</h3>
 
-<!DOCTYPE <html>
-<html lang = "en" data-darkreader-mode = "dynamic" data-darkreader="dark" injected = "true">
-<a id = "readme-top"></a>
-<!-- Introduction Line w/ Impactful & Professional Statement-->
-  <h1 align = "center"> <strong>Hello, I'm Carter Case </strong></h1>
-  <h3 align = "center"> <strong>An Uprising Professional Problem Solver in the World of Tech</strong></h3>
+<p align="center">
+  Tampa Bay, FL | Software Development | Databases | Systems Programming | UI/UX
+</p>
 
-  <!-- Basic Information: Geographic Location, -->
-  <p>
-    <h3 align = "center">
-      <a> 
-        <strong>📡: Tampa, FL</strong>
-         &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-        <img src="https://komarev.com/ghpvc/?username=ccase362&label=Profile%20views&color=0e75b6&style=flat" alt = "CCase362" /> 
-         &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-        <strong> EST 2024 </strong>
-      </a>
-    </h3>
-  </p>
+---
 
-  <h3 align = "center"> 💡 Degree Path: Computer Science Engineering (CSE)</h3>
+## About Me
 
-  <h3 align = "center"> 🔧 Currently Learning: <strong>SWE + SDE + AI/ML Principles</strong> </h3>
+I'm a Computer Science student at the University of South Florida interested in software development, database systems, systems programming, and UI/UX-focused applications.
 
-  <!-- Displays Programming Experience w/ Icons & Links-->
-  <h3 align = "center"> <strong>Programming Experience:</strong> </h3>
-  <p align = "center"> 
-    <a href = "https://www.python.org/" target = "_blank" rel = "noreferrer"> 
-      <img src = "https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-64.png" 
-        alt = "Python" width = "50" height = "50" /> </a> 
-    <a href = "https://www.java.com/en" target = "_blank" rel = "noreferrer"> 
-      <img src = "https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-64.png" 
-        alt = "Java" width = "50" height = "50" /> </a>
-    <a href = "https://www.javascript.com/" target = "_blank" rel = "noreferrer"> 
-      <img src = "https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/187_Js_logo_logos-64.png" 
-        alt = "JavaScript" width = "50" height = "50" /> </a>
-    <a href = "https://www.c-language.org/" target = "_blank" rel = "noreferrer"> 
-      <img src = "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/c-program-icon.png" 
-        alt = "C" width = "45" height = "45" /> </a> 
-    <a href = "https://www.learncpp.com/" target = "_blank" rel = "noreferrer"> 
-      <img src = "https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/404/c_logo-64.png" 
-        alt = "C++" width = "50" height = "50" /> </a>
-    <a href = "https://www.w3.org/" target = "_blank" rel = "noreferrer"> 
-      <img src = "https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-64.png" 
-        alt = "HTML-5" width = "50" height = "50" /> </a>
-    <a href = "https://riscv.org/" target = "_blank" rel = "noreferrer"> 
-      <img src = "https://images.icon-icons.com/2148/PNG/512/risc_v_icon_132051.png" 
-        alt = "RISC-V" width = "50" height = "50" /> </a>
-  </p>
+I enjoy building practical projects that connect real-world problems with clean, usable software. My recent work includes a portfolio website, a full-stack apiary management system, database projects, and a multithreaded file deduplication tool in C using pthreads.
 
-  <!-- Displays My Preferred Cloud and Development Experience w/ Icons & Links-->
-  <h3 align = "center"><strong>Cloud & Development:</strong></h3>
-  <p align = "center"> 
-    <a href = "https://learn.microsoft.com/en-us/windows/wsl/install" target = "_blank" rel = "noreferrer"> 
-      <img src = "https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_linux-64.png" 
-        alt = "WSL/Linux" width = "50" height = "50" /> </a>
-    <a href = "https://ubuntu.com/" target = "_blank" rel = "noreferrer"> 
-      <img src = "https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_ubuntu-64.png" 
-        alt = "Ubuntu" width = "50" height = "50" /> </a>
-    <a href = "https://code.visualstudio.com/" target = "_blank" rel = "noreferrer"> 
-      <img src = "https://img.icons8.com/?size=64&id=i19Ns28h30P4&format=png" 
-        alt = "VS Code" width = "50" height = "50" /> </a>
-    <a href = "https://aws.amazon.com/" target = "_blank" rel = "noreferrer"> 
-      <img src = "https://cdn2.iconfinder.com/data/icons/social-flat-buttons-3/512/aws-64.png" 
-        alt = "AWS" width = "50" height = "50" /> </a>
-    <a href = "https://cloud.google.com/" target = "_blank" rel = "noreferrer"> 
-      <img src = "https://cdn1.iconfinder.com/data/icons/google-s-logo/150/Google_Icons-18-64.png" 
-        alt = "Google Cloud" width = "50" height = "50" /> </a>
-    <a href = "https://azure.microsoft.com/en-au" target = "_blank" rel = "noreferrer"> 
-      <img src = "https://img.icons8.com/?size=48&id=VLKafOkk3sBX&format=png" 
-        alt = "Azure" width = "50" height = "50" /> </a>
-  </p>
+Currently, I am looking for computer science internship opportunities where I can continue improving as a developer and contribute to real technical projects.
 
-  <!-- Displays My Preferred Cloud and Development Experience w/ Icons & Links-->
-  <h3 align = "center"><strong>DataBases & Tools:</strong></h3>
-  <p align = "center"> 
-    <a href = "https://www.mysql.com/" target = "_blank" rel = "noreferrer"> 
-      <img src = "https://cdn1.iconfinder.com/data/icons/programing-development-8/24/mysql_logo-64.png" 
-        alt = "MySQL" width = "50" height = "50" /> </a>
-    <a href = "https://www.java.com/en/" target = "_blank" rel = "noreferrer"> 
-      <img src = "https://www.postgresql.org/media/img/about/press/elephant.png" 
-        alt = "PostgreSQL" width = "50" height = "50" /> </a>
-    <a href = "https://www.microsoft.com/en-us/microsoft-365/access" target = "_blank" rel = "noreferrer"> 
-      <img src = "https://img.icons8.com/?size=48&id=JdOSrU3pawBf&format=png" 
-        alt = "Microsoft Access" width = "50" height = "50" /> </a>
-    <a href = "https://www.adobe.com/creativecloud.html" target = "_blank" rel = "noreferrer"> 
-      <img src = "https://img.icons8.com/?size=80&id=LhbjjIkf1NFh&format=png" 
-        alt = "Adobe Creative Cloud" width = "50" height = "50" /> </a>
-    <a href = "https://www.solidworks.com/" target = "_blank" rel = "noreferrer"> 
-      <img src = "https://img.icons8.com/?size=48&id=62397&format=png" 
-        alt = "Solid-Works 3D Building Software" width = "50" height = "50" /> </a>
-  </p>
+---
 
-  <h3 align = "center"><strong>📧 Need to Contact Me?:</strong></h3>
-  <p align = "center">
-    <a href = "https://www.linkedin.com/in/ccusf/" target = "_blank" rel = "noreferrer"> 
-      <img src = "https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-64.png" 
-        alt = "LinkedIn" width = "50" height = "50"/> </a>
-    <a href = "mailto:carterleecase@gmail.com" target = "_blank" rel = "noreferrer"> 
-      <img src = "https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-64.png" 
-        alt = "Business Email" width = "50" height = "50"/> </a>
-    <a href = "mailto:cartercase@usf.edu" target = "_blank" rel = "noreferrer"> 
-      <img src = "https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/74-outlook-64.png" 
-        alt = "School Email" width = "50" height = "50"/> </a>
-  </p>
+## Technical Skills
 
-  <p align = "center">
-    <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=CCase362&show_icons=true&locale=en&layout=donut&theme=transparent&title_color=ff0000&text_color=ffffff&border_color=ff0000&cache_seconds=1800" 
-      alt = "C-Kuzy" />
-  </p>
+**Languages:** C, C++, Python, Java, SQL, JavaScript, HTML/CSS  
+**Tools:** Git, GitHub, Linux, VS Code, PostgreSQL, SQLite  
+**Concepts:** Data Structures, Object-Oriented Programming, Multithreading, Database Design, Computer Architecture, Operating Systems
 
-  <p align = "center">
-    <img src="https://github-readme-stats.vercel.app/api?username=CCase362&show_icons=true&locale=en&theme=transparent&title_color=ff0000&text_color=ffffff&icon_color=ff0000&border_color=ff0000&cache_seconds=1800" 
-      alt = "C-Kuzy" />
-  </p>
+---
 
-  <footer>
-    <p align="center" text-sm>
-      © 2025 CC Solutions |
-      <a href="#readme-top" class="back-to-top-btn"> Back to Top </a>
-    </p>
-  </footer>
-</html>
+## Featured Projects
 
-message.txt
-9 KB
+### Parallel File Deduplication Tool
+**C, pthreads, Linux**
+
+- Built a multithreaded file deduplication system using chunk-based hashing
+- Used batching and workload balancing to improve processing efficiency
+- Tested performance across different thread counts and chunk sizes
+
+### Sunny Day Apiary Management System
+**HTML, CSS, JavaScript, SQL**
+
+- Developed a full-stack apiary management website with front-end and back-end functionality
+- Designed features for hive tracking, inspection logging, and inventory management
+- Built responsive interfaces focused on usability and organized data entry
+
+### Portfolio Website
+**HTML, CSS, JavaScript**
+
+- Designed a responsive personal portfolio website to showcase projects and technical skills
+- Built a JSON-driven project gallery for easier content updates
+- Focused on clean layout, mobile-first design, and user experience
+
+### Inventory Tracker Console App
+**Python, SQLite**
+
+- Created a command-line inventory tracker with CSV and SQLite support
+- Added search, filtering, and input validation for more reliable tracking
+- Organized the project using modular Python code
+
+---
+
+## Contact
+
+**Email:** carterleecase@gmail.com  
+**LinkedIn:** linkedin.com/in/ccusf  
+**GitHub:** github.com/CCase362
