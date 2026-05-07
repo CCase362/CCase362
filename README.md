@@ -68,11 +68,12 @@ Software Development • Systems Programming • Databases • UI/UX
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=CCase362&show_icons=true&theme=transparent&hide_border=true" />
-  
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CCase362&layout=compact&theme=transparent&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=CCase362&show_icons=true&theme=github_dark&hide_border=true" />
 </p>
 
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CCase362&layout=compact&theme=github_dark&hide_border=true" />
+</p>
 ---
 
 ## 📫 Contact
